@@ -1,4 +1,4 @@
-<div align="center">🧠 KryomAI
+🧠 KryomAI
 
 Connecting Intelligence with Computation.
 
@@ -6,7 +6,7 @@ KryomAI Intelligence OS
 
 An intelligence-native computing vision for the next generation of AI, heterogeneous compute, scientific computing, robotics, and advanced computing.
 
-
+---
 
 🌌 The Vision
 
