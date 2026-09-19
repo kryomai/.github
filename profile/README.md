@@ -6,12 +6,7 @@ KryomAI Intelligence OS
 
 An intelligence-native computing vision for the next generation of AI, heterogeneous compute, scientific computing, robotics, and advanced computing.
 
-<br>""KryomAI" (https://img.shields.io/badge/KryomAI-Intelligence%20OS-6C63FF?style=for-the-badge&logo=ai&logoColor=white)" (https://github.com/KryomAI)
-""AI" (https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white)" (https://github.com/KryomAI)
-""Research" (https://img.shields.io/badge/Research-0EA5E9?style=for-the-badge&logo=academia&logoColor=white)" (https://github.com/KryomAI)
-""Open Source" (https://img.shields.io/badge/Open%20Source-22C55E?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/KryomAI)
 
-</div>---
 
 🌌 The Vision
 
