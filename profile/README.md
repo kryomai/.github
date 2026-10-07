@@ -1,4 +1,4 @@
-🧠 KryomAI
+# 🧠 KryomAI
 
 Connecting Intelligence with Computation.
 
@@ -8,7 +8,7 @@ An intelligence-native computing vision for the next generation of AI, heterogen
 
 ---
 
-🌌 The Vision
+## 🌌 The Vision
 
 The future of computing will not be defined by a single processor, a single model, or a single computing architecture.
 
@@ -18,7 +18,7 @@ KryomAI is exploring a long-term vision for an Intelligence OS — a software an
 
 The vision extends beyond:
 
-«AI + CPU/GPU»
+### «AI + CPU/GPU»
 
 toward an ecosystem that can potentially coordinate:
 
@@ -28,7 +28,7 @@ KryomAI is being designed as a future-facing research and technology direction f
 
 ---
 
-🧠 What is KryomAI Intelligence OS?
+## 🧠 What is KryomAI Intelligence OS?
 
 KryomAI Intelligence OS is a long-term vision for an operating environment where intelligence is not simply an application running on top of computing infrastructure.
 
@@ -74,7 +74,7 @@ Intelligence should understand computation, not merely execute on computation.
 
 ---
 
-⚡ Core Principle
+## ⚡ Core Principle
 
 Traditional computing:
 
@@ -105,7 +105,7 @@ Observation
 Learning / Optimization
      ↺
 
-The intelligence layer could potentially determine:
+### The intelligence layer could potentially determine:
 
 - What needs to be computed
 - Which computational resource is appropriate
@@ -118,7 +118,7 @@ The intelligence layer could potentially determine:
 
 ---
 
-🌐 The KryomAI Compute Fabric
+## 🌐 The KryomAI Compute Fabric
 
 KryomAI's long-term architecture is envisioned as a Compute Fabric connecting different computational paradigms.
 
@@ -188,7 +188,7 @@ flowchart TB
 
 ---
 
-🧩 Heterogeneous Computing
+## 🧩 Heterogeneous Computing
 
 KryomAI does not assume that every workload should run on the same type of hardware.
 
@@ -210,7 +210,7 @@ These are architectural research directions, not claims that KryomAI currently s
 
 ---
 
-🔬 Intelligence-Native Computing
+## 🔬 Intelligence-Native Computing
 
 KryomAI's long-term research direction can be summarized as:
 
@@ -257,7 +257,7 @@ KryomAI's long-term research direction can be summarized as:
 
 ---
 
-🤖 AI Agents + Compute
+## 🤖 AI Agents + Compute
 
 A future KryomAI system could potentially transform a high-level objective into an executable computational workflow.
 
@@ -312,11 +312,11 @@ toward:
 
 ---
 
-🧬 AI for Science
+## 🧬 AI for Science
 
 One potential long-term application area is AI-assisted scientific discovery.
 
-KryomAI could explore architectures for coordinating:
+### KryomAI could explore architectures for coordinating:
 
 AI Models
    +
@@ -332,7 +332,7 @@ Robotics
    +
 Human Researchers
 
-Potential research domains include:
+### Potential research domains include:
 
 - Drug discovery
 - Materials science
@@ -349,11 +349,11 @@ These are future research possibilities, not current product capabilities.
 
 ---
 
-🚀 Robotics & Physical Intelligence
+## 🚀 Robotics & Physical Intelligence
 
 KryomAI's vision can eventually extend beyond purely digital computation.
 
-flowchart LR
+### flowchart LR
 
     I["🧠 Intelligence"]
 
@@ -387,7 +387,7 @@ The long-term direction is to investigate how intelligence, computation, sensing
 
 ---
 
-⚛️ Quantum + Classical Computing
+## ⚛️ Quantum + Classical Computing
 
 KryomAI is also interested in the future relationship between AI systems and quantum computing.
 
@@ -399,7 +399,7 @@ Instead, the research question is:
 
 Conceptually:
 
-flowchart TD
+### flowchart TD
 
     USER["Human / Researcher"]
     AI["KryomAI Intelligence"]
@@ -435,7 +435,7 @@ flowchart TD
 
 ---
 
-🏗️ Long-Term Architecture
+## 🏗️ Long-Term Architecture
 
 The broader KryomAI architecture can be viewed as several layers.
 
@@ -472,7 +472,7 @@ The broader KryomAI architecture can be viewed as several layers.
 
 ---
 
-🧭 Future Roadmap
+## 🧭 Future Roadmap
 
 KryomAI is intended to evolve through research and engineering stages rather than attempting to build the complete vision at once.
 
@@ -514,9 +514,9 @@ The timeline is a strategic research direction, not a commitment to specific rel
 
 ---
 
-🛣️ Development Phases
+## 🛣️ Development Phases
 
-Phase 01 — Foundation
+### Phase 01 — Foundation
 
 Focus:
 
@@ -530,7 +530,7 @@ Build the software and AI foundations.
 
 ---
 
-Phase 02 — Intelligence Platform
+### Phase 02 — Intelligence Platform
 
 Explore:
 
@@ -550,7 +550,7 @@ The objective is to develop increasingly capable intelligent workflows.
 
 ---
 
-Phase 03 — Compute Abstraction
+### Phase 03 — Compute Abstraction
 
 Explore an abstraction layer between intelligence and heterogeneous compute.
 
@@ -562,7 +562,7 @@ CPU / GPU / NPU / FPGA / HPC
 
 ---
 
-Phase 04 — Compute Fabric
+### Phase 04 — Compute Fabric
 
 Move toward distributed heterogeneous computing:
 
@@ -578,7 +578,7 @@ The research focus becomes intelligent workload placement and orchestration.
 
 ---
 
-Phase 05 — Advanced Computing
+### Phase 05 — Advanced Computing
 
 Explore interfaces with:
 
@@ -592,7 +592,7 @@ Integration will depend on hardware availability, software ecosystems, scientifi
 
 ---
 
-Phase 06 — Intelligence OS
+### Phase 06 — Intelligence OS
 
 The long-term vision:
 
@@ -617,45 +617,45 @@ The long-term vision:
 
 ---
 
-🔭 What Could KryomAI Enable?
+## 🔭 What Could KryomAI Enable?
 
 Potential future directions include:
 
-🧪 Scientific Discovery
+#### 🧪 Scientific Discovery
 
 AI-assisted scientific workflows, simulation, experimentation and discovery.
 
-💊 Drug Discovery
+#### 💊 Drug Discovery
 
 Potential coordination of AI models, simulation, scientific computing and laboratory automation.
 
-🧱 Materials Science
+#### 🧱 Materials Science
 
 Searching and evaluating materials through AI, simulation and specialized computation.
 
-🌌 Space Science
+#### 🌌 Space Science
 
 Large-scale simulation, scientific analysis, autonomous systems and robotics research.
 
-🤖 Robotics
+#### 🤖 Robotics
 
 Intelligent planning, perception, decision-making and physical execution.
 
-🧬 Biology
+#### 🧬 Biology
 
 AI-assisted analysis, modeling and scientific experimentation.
 
-⚡ Advanced Computing
+#### ⚡ Advanced Computing
 
 Research into intelligent coordination across classical, specialized and emerging computational architectures.
 
 ---
 
-🔐 Security & Responsible Computing
+## 🔐 Security & Responsible Computing
 
 A system capable of coordinating powerful computational resources must be designed with security and responsible operation as core principles.
 
-KryomAI's long-term research should consider:
+#### KryomAI's long-term research should consider:
 
 - Identity and access control
 - Sandboxed execution
@@ -672,11 +672,11 @@ The objective is not simply to make systems more capable, but to make them obser
 
 ---
 
-🌱 Open Research Direction
+## 🌱 Open Research Direction
 
 KryomAI is intended to be developed incrementally.
 
-The project welcomes exploration across:
+#### The project welcomes exploration across:
 
 Artificial Intelligence
 Machine Learning
@@ -698,7 +698,7 @@ The vision is ambitious, but every capability should ultimately be grounded in w
 
 ---
 
-🧪 Research Philosophy
+## 🧪 Research Philosophy
 
 KryomAI follows a simple principle:
 
@@ -711,7 +711,7 @@ We believe future computing will emerge from the interaction of multiple discipl
 
 ---
 
-🗂️ Organization Structure
+## 🗂️ Organization Structure
 
 KryomAI
 │
@@ -751,7 +751,7 @@ KryomAI
 
 ---
 
-⭐ Current Focus
+## ⭐ Current Focus
 
 KryomAI is currently building toward its vision through practical software foundations.
 
@@ -775,7 +775,7 @@ The KryomAI Code Intelligence project is part of this early foundation: understa
 
 ---
 
-🚀 Why KryomAI?
+## 🚀 Why KryomAI?
 
 The fundamental question behind KryomAI is:
 
@@ -791,15 +791,15 @@ Connecting Intelligence with Computation.
 
 ---
 
-🧠 Intelligence
+### 🧠 Intelligence
 
-+
+### +
 
-⚙️ Computation
+### ⚙️ Computation
 
-=
+### =
 
-🌐 KryomAI
+### 🌐 KryomAI
 
 
 Research • Build • Experiment • Evolve
@@ -808,7 +808,7 @@ Research • Build • Experiment • Evolve
 ---
 
 
-KryomAI
+# KryomAI
 
 Exploring the future of intelligence-native computing.
 
